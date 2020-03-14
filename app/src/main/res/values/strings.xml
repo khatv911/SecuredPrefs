@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SecureToken</string>
+    <string name="pref_provider_authority">com.kay.securetoken.prefprovider</string>
+</resources>
